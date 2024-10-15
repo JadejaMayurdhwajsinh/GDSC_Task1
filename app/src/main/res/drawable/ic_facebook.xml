@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Background circle (matching button color) -->
+    <path
+        android:fillColor="#3b5998"
+    android:pathData="M12,0C18.627,0 24,5.373 24,12C24,18.627 18.627,24 12,24C5.373,24 0,18.627 0,12C0,5.373 5.373,0 12,0Z" />
+
+    <!-- "f" Icon in White -->
+    <path
+        android:fillColor="#FFFFFF"
+    android:pathData="M15.117,24V13.066H18.357L18.876,9.413H15.117V7.154C15.117,6.154 15.441,5.385 16.877,5.385H18.922V2.241C18.51,2.177 17.262,2 15.81,2C13.045,2 11.2,3.659 11.2,6.72V9.413H8V13.066H11.2V24H15.117Z"/>
+</vector>
