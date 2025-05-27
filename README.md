@@ -1,4 +1,4 @@
-📱 Demo App UI Pages — GDSC Task
+## 📱 Demo App UI Pages — GDSC Task
 This repository contains screenshots of demo application UI pages created as part of a task given by the Google Developer Student Clubs (GDSC). The designs aim to showcase basic app layouts and user interface ideas for learning and inspiration purposes.
 ![image](https://github.com/user-attachments/assets/3b07e96e-a65d-4441-9102-a9fdd192223d)
 ![image](https://github.com/user-attachments/assets/a3ff4ae0-388f-4846-bea4-1fbfafae3a40)
